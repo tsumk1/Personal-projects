@@ -1,7 +1,7 @@
 import pandas as pd 
 
 data = {
-    "name": ["Maxim","Vika", "Sasha", "Polina"],
+    "name": ["Oleg","Alex", "Michael", "George"],
     "math": [11, 9, 12, 10],
     "programming": [12, 10, 9, 11],
     "english": [11, 11, 10, 12]
