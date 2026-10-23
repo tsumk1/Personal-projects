@@ -9,6 +9,7 @@ data = {
 }
 
 frame = pd.DataFrame(data)
+
 print(frame)
 print("---------------------")
 
@@ -42,3 +43,5 @@ max_scores_engl = frame["english"].min()
 print("Min:")
 print(" Математика: ", max_scores_math, " Програмування: ", max_scores_prog, " Англійська: ", max_scores_engl)
 print("---------------------")
+
+print(frame)
